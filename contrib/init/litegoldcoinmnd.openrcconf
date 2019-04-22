@@ -1,0 +1,26 @@
+# /etc/conf.d/litegoldcoinmnd: config file for /etc/init.d/litegoldcoinmnd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/litegoldcoinmn/litegoldcoinmn.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/litegoldcoinmnd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/litegoldcoinmnd.pid"
+
+# Where to write litegoldcoinmnd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/litegoldcoinmnd"
+
+# User and group to own litegoldcoinmnd process
+#BITCOIND_USER="litegoldcoinmn"
+#BITCOIND_GROUP="litegoldcoinmn"
+
+# Path to litegoldcoinmnd executable
+#BITCOIND_BIN="/usr/bin/litegoldcoinmnd"
+
+# Nice value to run litegoldcoinmnd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LiteGoldCoinMN
+Comment=LiteGoldCoinMN P2P Cryptocurrency
+Comment[fr]=LiteGoldCoinMN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LiteGoldCoinMN, eşten eşe kriptografik sanal para birimi
+Exec=litegoldcoinmn-qt %u
+Terminal=false
+Type=Application
+Icon=litegoldcoinmn128
+MimeType=x-scheme-handler/litegoldcoinmn;
+Categories=Office;Finance;
