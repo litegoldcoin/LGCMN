@@ -13,12 +13,11 @@ https://web.litegoldcoin.net/
  - Masternode: YES
  - RPC port: 8247 
  - P2P port: 8248
-
  - First Block(Premine): 500M
  - POW/POS Reward: 30 coins
  - POW Ends at Block 10,000
 
- - Masternode Info
+ Masternode Info
  - 100000 LGCMN to activate Masternode
  - Masternode Reward: 50%
 
